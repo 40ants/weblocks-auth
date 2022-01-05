@@ -2,10 +2,9 @@
  weblocks-auth
 =================
 
-.. insert-your badges like that:
+**Warning!** This repository is deprecated and was renamed to https://github.com/40ants/reblocks-auth
 
-.. image:: https://travis-ci.org/40ants/weblocks-auth.svg?branch=master
-    :target: https://travis-ci.org/40ants/weblocks-auth
+.. insert-your badges like that:
 
 .. Everything starting from this commit will be inserted into the
    index page of the HTML documentation.
